@@ -1,0 +1,272 @@
+D:\Project\2.Demo\OMCS Demo：视频聊天室\VideoChatRoom\bin\Debug\VideoChatRoom.exe.config
+D:\Project\2.Demo\OMCS Demo：视频聊天室\VideoChatRoom\bin\Debug\VideoChatRoom.exe
+D:\Project\2.Demo\OMCS Demo：视频聊天室\VideoChatRoom\bin\Debug\VideoChatRoom.pdb
+D:\Project\2.Demo\OMCS Demo：视频聊天室\VideoChatRoom\bin\Debug\CSkin.dll
+D:\Project\2.Demo\OMCS Demo：视频聊天室\VideoChatRoom\bin\Debug\ESBasic.dll
+D:\Project\2.Demo\OMCS Demo：视频聊天室\VideoChatRoom\bin\Debug\OMCS.dll
+D:\Project\2.Demo\OMCS Demo：视频聊天室\VideoChatRoom\bin\Debug\PaintFramework.dll
+D:\Project\2.Demo\OMCS Demo：视频聊天室\VideoChatRoom\bin\Debug\ESBasic.xml
+D:\Project\2.Demo\OMCS Demo：视频聊天室\VideoChatRoom\bin\Debug\OMCS.xml
+D:\Project\2.Demo\OMCS Demo：视频聊天室\VideoChatRoom\bin\Debug\PaintFramework.xml
+D:\Project\2.Demo\OMCS Demo：视频聊天室\VideoChatRoom\obj\x86\Debug\VideoChatRoom.csprojResolveAssemblyReference.cache
+D:\Project\2.Demo\OMCS Demo：视频聊天室\VideoChatRoom\obj\x86\Debug\VideoChatRoom.DecibelDisplayer.resources
+D:\Project\2.Demo\OMCS Demo：视频聊天室\VideoChatRoom\obj\x86\Debug\VideoChatRoom.MainForm.resources
+D:\Project\2.Demo\OMCS Demo：视频聊天室\VideoChatRoom\obj\x86\Debug\VideoChatRoom.LoginForm.resources
+D:\Project\2.Demo\OMCS Demo：视频聊天室\VideoChatRoom\obj\x86\Debug\VideoChatRoom.MultiVideoChatContainer.resources
+D:\Project\2.Demo\OMCS Demo：视频聊天室\VideoChatRoom\obj\x86\Debug\VideoChatRoom.Properties.Resources.resources
+D:\Project\2.Demo\OMCS Demo：视频聊天室\VideoChatRoom\obj\x86\Debug\VideoChatRoom.VideoPanel.resources
+D:\Project\2.Demo\OMCS Demo：视频聊天室\VideoChatRoom\obj\x86\Debug\VideoChatRoom.csproj.GenerateResource.Cache
+D:\Project\2.Demo\OMCS Demo：视频聊天室\VideoChatRoom\obj\x86\Debug\VideoChatRoom.exe
+D:\Project\2.Demo\OMCS Demo：视频聊天室\VideoChatRoom\obj\x86\Debug\VideoChatRoom.pdb
+E:\0.work\06. demos\omcs_demos 2015.3.24\VideoChatRoom\VideoChatRoom\bin\Debug\VideoChatRoom.exe.config
+E:\0.work\06. demos\omcs_demos 2015.3.24\VideoChatRoom\VideoChatRoom\bin\Debug\VideoChatRoom.exe
+E:\0.work\06. demos\omcs_demos 2015.3.24\VideoChatRoom\VideoChatRoom\bin\Debug\VideoChatRoom.pdb
+E:\0.work\06. demos\omcs_demos 2015.3.24\VideoChatRoom\VideoChatRoom\bin\Debug\CSkin.dll
+E:\0.work\06. demos\omcs_demos 2015.3.24\VideoChatRoom\VideoChatRoom\bin\Debug\ESBasic.dll
+E:\0.work\06. demos\omcs_demos 2015.3.24\VideoChatRoom\VideoChatRoom\bin\Debug\OMCS.dll
+E:\0.work\06. demos\omcs_demos 2015.3.24\VideoChatRoom\VideoChatRoom\bin\Debug\PaintFramework.dll
+E:\0.work\06. demos\omcs_demos 2015.3.24\VideoChatRoom\VideoChatRoom\bin\Debug\ESBasic.xml
+E:\0.work\06. demos\omcs_demos 2015.3.24\VideoChatRoom\VideoChatRoom\bin\Debug\OMCS.xml
+E:\0.work\06. demos\omcs_demos 2015.3.24\VideoChatRoom\VideoChatRoom\bin\Debug\PaintFramework.xml
+E:\0.work\06. demos\omcs_demos 2015.3.24\VideoChatRoom\VideoChatRoom\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\0.work\06. demos\omcs_demos 2015.3.24\VideoChatRoom\VideoChatRoom\obj\x86\Debug\VideoChatRoom.DecibelDisplayer.resources
+E:\0.work\06. demos\omcs_demos 2015.3.24\VideoChatRoom\VideoChatRoom\obj\x86\Debug\VideoChatRoom.MainForm.resources
+E:\0.work\06. demos\omcs_demos 2015.3.24\VideoChatRoom\VideoChatRoom\obj\x86\Debug\VideoChatRoom.LoginForm.resources
+E:\0.work\06. demos\omcs_demos 2015.3.24\VideoChatRoom\VideoChatRoom\obj\x86\Debug\VideoChatRoom.MultiVideoChatContainer.resources
+E:\0.work\06. demos\omcs_demos 2015.3.24\VideoChatRoom\VideoChatRoom\obj\x86\Debug\VideoChatRoom.Properties.Resources.resources
+E:\0.work\06. demos\omcs_demos 2015.3.24\VideoChatRoom\VideoChatRoom\obj\x86\Debug\VideoChatRoom.VideoPanel.resources
+E:\0.work\06. demos\omcs_demos 2015.3.24\VideoChatRoom\VideoChatRoom\obj\x86\Debug\ResGen.read.1.tlog
+E:\0.work\06. demos\omcs_demos 2015.3.24\VideoChatRoom\VideoChatRoom\obj\x86\Debug\ResGen.write.1.tlog
+E:\0.work\06. demos\omcs_demos 2015.3.24\VideoChatRoom\VideoChatRoom\obj\x86\Debug\VideoChatRoom.exe
+E:\0.work\06. demos\omcs_demos 2015.3.24\VideoChatRoom\VideoChatRoom\obj\x86\Debug\VideoChatRoom.pdb
+C:\Users\zhuhao\Desktop\新建文件夹\VideoChatRoom\VideoChatRoom\bin\Debug\VideoChatRoom.exe.config
+C:\Users\zhuhao\Desktop\新建文件夹\VideoChatRoom\VideoChatRoom\bin\Debug\VideoChatRoom.exe
+C:\Users\zhuhao\Desktop\新建文件夹\VideoChatRoom\VideoChatRoom\bin\Debug\VideoChatRoom.pdb
+C:\Users\zhuhao\Desktop\新建文件夹\VideoChatRoom\VideoChatRoom\bin\Debug\CSkin.dll
+C:\Users\zhuhao\Desktop\新建文件夹\VideoChatRoom\VideoChatRoom\bin\Debug\ESBasic.dll
+C:\Users\zhuhao\Desktop\新建文件夹\VideoChatRoom\VideoChatRoom\bin\Debug\OMCS.dll
+C:\Users\zhuhao\Desktop\新建文件夹\VideoChatRoom\VideoChatRoom\bin\Debug\PaintFramework.dll
+C:\Users\zhuhao\Desktop\新建文件夹\VideoChatRoom\VideoChatRoom\bin\Debug\ESBasic.xml
+C:\Users\zhuhao\Desktop\新建文件夹\VideoChatRoom\VideoChatRoom\bin\Debug\OMCS.xml
+C:\Users\zhuhao\Desktop\新建文件夹\VideoChatRoom\VideoChatRoom\bin\Debug\PaintFramework.xml
+C:\Users\zhuhao\Desktop\新建文件夹\VideoChatRoom\VideoChatRoom\obj\x86\Debug\VideoChatRoom.csprojResolveAssemblyReference.cache
+C:\Users\zhuhao\Desktop\新建文件夹\VideoChatRoom\VideoChatRoom\obj\x86\Debug\VideoChatRoom.DecibelDisplayer.resources
+C:\Users\zhuhao\Desktop\新建文件夹\VideoChatRoom\VideoChatRoom\obj\x86\Debug\VideoChatRoom.MainForm.resources
+C:\Users\zhuhao\Desktop\新建文件夹\VideoChatRoom\VideoChatRoom\obj\x86\Debug\VideoChatRoom.LoginForm.resources
+C:\Users\zhuhao\Desktop\新建文件夹\VideoChatRoom\VideoChatRoom\obj\x86\Debug\VideoChatRoom.MultiVideoChatContainer.resources
+C:\Users\zhuhao\Desktop\新建文件夹\VideoChatRoom\VideoChatRoom\obj\x86\Debug\VideoChatRoom.Properties.Resources.resources
+C:\Users\zhuhao\Desktop\新建文件夹\VideoChatRoom\VideoChatRoom\obj\x86\Debug\VideoChatRoom.VideoPanel.resources
+C:\Users\zhuhao\Desktop\新建文件夹\VideoChatRoom\VideoChatRoom\obj\x86\Debug\VideoChatRoom.csproj.GenerateResource.Cache
+C:\Users\zhuhao\Desktop\新建文件夹\VideoChatRoom\VideoChatRoom\obj\x86\Debug\VideoChatRoom.exe
+C:\Users\zhuhao\Desktop\新建文件夹\VideoChatRoom\VideoChatRoom\obj\x86\Debug\VideoChatRoom.pdb
+C:\Users\david\Downloads\VideoChatRoom\VideoChatRoom\bin\Debug\VideoChatRoom.exe.config
+C:\Users\david\Downloads\VideoChatRoom\VideoChatRoom\bin\Debug\VideoChatRoom.exe
+C:\Users\david\Downloads\VideoChatRoom\VideoChatRoom\bin\Debug\VideoChatRoom.pdb
+C:\Users\david\Downloads\VideoChatRoom\VideoChatRoom\bin\Debug\CSkin.dll
+C:\Users\david\Downloads\VideoChatRoom\VideoChatRoom\bin\Debug\ESBasic.dll
+C:\Users\david\Downloads\VideoChatRoom\VideoChatRoom\bin\Debug\OMCS.dll
+C:\Users\david\Downloads\VideoChatRoom\VideoChatRoom\bin\Debug\PaintFramework.dll
+C:\Users\david\Downloads\VideoChatRoom\VideoChatRoom\bin\Debug\ESBasic.xml
+C:\Users\david\Downloads\VideoChatRoom\VideoChatRoom\bin\Debug\OMCS.xml
+C:\Users\david\Downloads\VideoChatRoom\VideoChatRoom\bin\Debug\PaintFramework.xml
+C:\Users\david\Downloads\VideoChatRoom\VideoChatRoom\obj\x86\Debug\VideoChatRoom.csprojResolveAssemblyReference.cache
+C:\Users\david\Downloads\VideoChatRoom\VideoChatRoom\obj\x86\Debug\VideoChatRoom.DecibelDisplayer.resources
+C:\Users\david\Downloads\VideoChatRoom\VideoChatRoom\obj\x86\Debug\VideoChatRoom.MainForm.resources
+C:\Users\david\Downloads\VideoChatRoom\VideoChatRoom\obj\x86\Debug\VideoChatRoom.LoginForm.resources
+C:\Users\david\Downloads\VideoChatRoom\VideoChatRoom\obj\x86\Debug\VideoChatRoom.MultiVideoChatContainer.resources
+C:\Users\david\Downloads\VideoChatRoom\VideoChatRoom\obj\x86\Debug\VideoChatRoom.Properties.Resources.resources
+C:\Users\david\Downloads\VideoChatRoom\VideoChatRoom\obj\x86\Debug\VideoChatRoom.VideoPanel.resources
+C:\Users\david\Downloads\VideoChatRoom\VideoChatRoom\obj\x86\Debug\VideoChatRoom.csproj.GenerateResource.Cache
+C:\Users\david\Downloads\VideoChatRoom\VideoChatRoom\obj\x86\Debug\VideoChatRoom.exe
+C:\Users\david\Downloads\VideoChatRoom\VideoChatRoom\obj\x86\Debug\VideoChatRoom.pdb
+E:\QQQQQQQQQQQQQQQQQQQQQQQQQ\OMCS\VideoChatRoom\VideoChatRoom\bin\Debug\VideoChatRoom.exe.config
+E:\QQQQQQQQQQQQQQQQQQQQQQQQQ\OMCS\VideoChatRoom\VideoChatRoom\bin\Debug\VideoChatRoom.exe
+E:\QQQQQQQQQQQQQQQQQQQQQQQQQ\OMCS\VideoChatRoom\VideoChatRoom\bin\Debug\VideoChatRoom.pdb
+E:\QQQQQQQQQQQQQQQQQQQQQQQQQ\OMCS\VideoChatRoom\VideoChatRoom\bin\Debug\CSkin.dll
+E:\QQQQQQQQQQQQQQQQQQQQQQQQQ\OMCS\VideoChatRoom\VideoChatRoom\bin\Debug\ESBasic.dll
+E:\QQQQQQQQQQQQQQQQQQQQQQQQQ\OMCS\VideoChatRoom\VideoChatRoom\bin\Debug\OMCS.dll
+E:\QQQQQQQQQQQQQQQQQQQQQQQQQ\OMCS\VideoChatRoom\VideoChatRoom\bin\Debug\PaintFramework.dll
+E:\QQQQQQQQQQQQQQQQQQQQQQQQQ\OMCS\VideoChatRoom\VideoChatRoom\bin\Debug\ESBasic.xml
+E:\QQQQQQQQQQQQQQQQQQQQQQQQQ\OMCS\VideoChatRoom\VideoChatRoom\bin\Debug\OMCS.xml
+E:\QQQQQQQQQQQQQQQQQQQQQQQQQ\OMCS\VideoChatRoom\VideoChatRoom\bin\Debug\PaintFramework.xml
+E:\QQQQQQQQQQQQQQQQQQQQQQQQQ\OMCS\VideoChatRoom\VideoChatRoom\obj\x86\Debug\VideoChatRoom.csprojResolveAssemblyReference.cache
+E:\QQQQQQQQQQQQQQQQQQQQQQQQQ\OMCS\VideoChatRoom\VideoChatRoom\obj\x86\Debug\VideoChatRoom.DecibelDisplayer.resources
+E:\QQQQQQQQQQQQQQQQQQQQQQQQQ\OMCS\VideoChatRoom\VideoChatRoom\obj\x86\Debug\VideoChatRoom.MainForm.resources
+E:\QQQQQQQQQQQQQQQQQQQQQQQQQ\OMCS\VideoChatRoom\VideoChatRoom\obj\x86\Debug\VideoChatRoom.LoginForm.resources
+E:\QQQQQQQQQQQQQQQQQQQQQQQQQ\OMCS\VideoChatRoom\VideoChatRoom\obj\x86\Debug\VideoChatRoom.MultiVideoChatContainer.resources
+E:\QQQQQQQQQQQQQQQQQQQQQQQQQ\OMCS\VideoChatRoom\VideoChatRoom\obj\x86\Debug\VideoChatRoom.Properties.Resources.resources
+E:\QQQQQQQQQQQQQQQQQQQQQQQQQ\OMCS\VideoChatRoom\VideoChatRoom\obj\x86\Debug\VideoChatRoom.VideoPanel.resources
+E:\QQQQQQQQQQQQQQQQQQQQQQQQQ\OMCS\VideoChatRoom\VideoChatRoom\obj\x86\Debug\VideoChatRoom.csproj.GenerateResource.Cache
+E:\QQQQQQQQQQQQQQQQQQQQQQQQQ\OMCS\VideoChatRoom\VideoChatRoom\obj\x86\Debug\VideoChatRoom.exe
+E:\QQQQQQQQQQQQQQQQQQQQQQQQQ\OMCS\VideoChatRoom\VideoChatRoom\obj\x86\Debug\VideoChatRoom.pdb
+E:\QQQQQQQQQQQQQQQQQQQQQQQQQ\OMCS\VideoChatRoom生成成功\VideoChatRoom\bin\Debug\VideoChatRoom.exe.config
+E:\QQQQQQQQQQQQQQQQQQQQQQQQQ\OMCS\VideoChatRoom生成成功\VideoChatRoom\bin\Debug\VideoChatRoom.exe
+E:\QQQQQQQQQQQQQQQQQQQQQQQQQ\OMCS\VideoChatRoom生成成功\VideoChatRoom\bin\Debug\VideoChatRoom.pdb
+E:\QQQQQQQQQQQQQQQQQQQQQQQQQ\OMCS\VideoChatRoom生成成功\VideoChatRoom\bin\Debug\CSkin.dll
+E:\QQQQQQQQQQQQQQQQQQQQQQQQQ\OMCS\VideoChatRoom生成成功\VideoChatRoom\bin\Debug\ESBasic.dll
+E:\QQQQQQQQQQQQQQQQQQQQQQQQQ\OMCS\VideoChatRoom生成成功\VideoChatRoom\bin\Debug\OMCS.dll
+E:\QQQQQQQQQQQQQQQQQQQQQQQQQ\OMCS\VideoChatRoom生成成功\VideoChatRoom\bin\Debug\PaintFramework.dll
+E:\QQQQQQQQQQQQQQQQQQQQQQQQQ\OMCS\VideoChatRoom生成成功\VideoChatRoom\bin\Debug\ESBasic.xml
+E:\QQQQQQQQQQQQQQQQQQQQQQQQQ\OMCS\VideoChatRoom生成成功\VideoChatRoom\bin\Debug\OMCS.xml
+E:\QQQQQQQQQQQQQQQQQQQQQQQQQ\OMCS\VideoChatRoom生成成功\VideoChatRoom\bin\Debug\PaintFramework.xml
+E:\QQQQQQQQQQQQQQQQQQQQQQQQQ\OMCS\VideoChatRoom生成成功\VideoChatRoom\obj\x86\Debug\VideoChatRoom.csprojResolveAssemblyReference.cache
+E:\QQQQQQQQQQQQQQQQQQQQQQQQQ\OMCS\VideoChatRoom生成成功\VideoChatRoom\obj\x86\Debug\VideoChatRoom.DecibelDisplayer.resources
+E:\QQQQQQQQQQQQQQQQQQQQQQQQQ\OMCS\VideoChatRoom生成成功\VideoChatRoom\obj\x86\Debug\VideoChatRoom.MainForm.resources
+E:\QQQQQQQQQQQQQQQQQQQQQQQQQ\OMCS\VideoChatRoom生成成功\VideoChatRoom\obj\x86\Debug\VideoChatRoom.LoginForm.resources
+E:\QQQQQQQQQQQQQQQQQQQQQQQQQ\OMCS\VideoChatRoom生成成功\VideoChatRoom\obj\x86\Debug\VideoChatRoom.MultiVideoChatContainer.resources
+E:\QQQQQQQQQQQQQQQQQQQQQQQQQ\OMCS\VideoChatRoom生成成功\VideoChatRoom\obj\x86\Debug\VideoChatRoom.Properties.Resources.resources
+E:\QQQQQQQQQQQQQQQQQQQQQQQQQ\OMCS\VideoChatRoom生成成功\VideoChatRoom\obj\x86\Debug\VideoChatRoom.VideoPanel.resources
+E:\QQQQQQQQQQQQQQQQQQQQQQQQQ\OMCS\VideoChatRoom生成成功\VideoChatRoom\obj\x86\Debug\VideoChatRoom.csproj.GenerateResource.Cache
+E:\QQQQQQQQQQQQQQQQQQQQQQQQQ\OMCS\VideoChatRoom生成成功\VideoChatRoom\obj\x86\Debug\VideoChatRoom.exe
+E:\QQQQQQQQQQQQQQQQQQQQQQQQQ\OMCS\VideoChatRoom生成成功\VideoChatRoom\obj\x86\Debug\VideoChatRoom.pdb
+E:\qqqqqqqqqqqqqqqqqq\VideoChatRoom\VideoChatRoom\bin\Debug\VideoChatRoom.exe.config
+E:\qqqqqqqqqqqqqqqqqq\VideoChatRoom\VideoChatRoom\bin\Debug\VideoChatRoom.exe
+E:\qqqqqqqqqqqqqqqqqq\VideoChatRoom\VideoChatRoom\bin\Debug\VideoChatRoom.pdb
+E:\qqqqqqqqqqqqqqqqqq\VideoChatRoom\VideoChatRoom\bin\Debug\CSkin.dll
+E:\qqqqqqqqqqqqqqqqqq\VideoChatRoom\VideoChatRoom\bin\Debug\ESBasic.dll
+E:\qqqqqqqqqqqqqqqqqq\VideoChatRoom\VideoChatRoom\bin\Debug\OMCS.dll
+E:\qqqqqqqqqqqqqqqqqq\VideoChatRoom\VideoChatRoom\bin\Debug\PaintFramework.dll
+E:\qqqqqqqqqqqqqqqqqq\VideoChatRoom\VideoChatRoom\bin\Debug\ESBasic.xml
+E:\qqqqqqqqqqqqqqqqqq\VideoChatRoom\VideoChatRoom\bin\Debug\OMCS.xml
+E:\qqqqqqqqqqqqqqqqqq\VideoChatRoom\VideoChatRoom\bin\Debug\PaintFramework.xml
+E:\qqqqqqqqqqqqqqqqqq\VideoChatRoom\VideoChatRoom\obj\x86\Debug\VideoChatRoom.csprojResolveAssemblyReference.cache
+E:\qqqqqqqqqqqqqqqqqq\VideoChatRoom\VideoChatRoom\obj\x86\Debug\VideoChatRoom.DecibelDisplayer.resources
+E:\qqqqqqqqqqqqqqqqqq\VideoChatRoom\VideoChatRoom\obj\x86\Debug\VideoChatRoom.MainForm.resources
+E:\qqqqqqqqqqqqqqqqqq\VideoChatRoom\VideoChatRoom\obj\x86\Debug\VideoChatRoom.LoginForm.resources
+E:\qqqqqqqqqqqqqqqqqq\VideoChatRoom\VideoChatRoom\obj\x86\Debug\VideoChatRoom.MultiVideoChatContainer.resources
+E:\qqqqqqqqqqqqqqqqqq\VideoChatRoom\VideoChatRoom\obj\x86\Debug\VideoChatRoom.Properties.Resources.resources
+E:\qqqqqqqqqqqqqqqqqq\VideoChatRoom\VideoChatRoom\obj\x86\Debug\VideoChatRoom.VideoPanel.resources
+E:\qqqqqqqqqqqqqqqqqq\VideoChatRoom\VideoChatRoom\obj\x86\Debug\VideoChatRoom.csproj.GenerateResource.Cache
+E:\qqqqqqqqqqqqqqqqqq\VideoChatRoom\VideoChatRoom\obj\x86\Debug\VideoChatRoom.exe
+E:\qqqqqqqqqqqqqqqqqq\VideoChatRoom\VideoChatRoom\obj\x86\Debug\VideoChatRoom.pdb
+E:\替换dll\OMCS相关Demo\VideoChatRoom\VideoChatRoom\obj\x86\Debug\VideoChatRoom.DecibelDisplayer.resources
+E:\替换dll\OMCS相关Demo\VideoChatRoom\VideoChatRoom\obj\x86\Debug\VideoChatRoom.MainForm.resources
+E:\替换dll\OMCS相关Demo\VideoChatRoom\VideoChatRoom\obj\x86\Debug\VideoChatRoom.LoginForm.resources
+E:\替换dll\OMCS相关Demo\VideoChatRoom\VideoChatRoom\obj\x86\Debug\VideoChatRoom.MultiVideoChatContainer.resources
+E:\替换dll\OMCS相关Demo\VideoChatRoom\VideoChatRoom\obj\x86\Debug\VideoChatRoom.Properties.Resources.resources
+E:\替换dll\OMCS相关Demo\VideoChatRoom\VideoChatRoom\obj\x86\Debug\VideoChatRoom.VideoPanel.resources
+E:\替换dll\OMCS相关Demo\VideoChatRoom\VideoChatRoom\obj\x86\Debug\VideoChatRoom.csproj.GenerateResource.Cache
+E:\替换dll\OMCS相关Demo\VideoChatRoom\VideoChatRoom\obj\x86\Debug\VideoChatRoom.exe
+E:\替换dll\OMCS相关Demo\VideoChatRoom\VideoChatRoom\bin\Debug\VideoChatRoom.exe.config
+E:\替换dll\OMCS相关Demo\VideoChatRoom\VideoChatRoom\bin\Debug\VideoChatRoom.exe
+E:\替换dll\OMCS相关Demo\VideoChatRoom\VideoChatRoom\bin\Debug\VideoChatRoom.pdb
+E:\替换dll\OMCS相关Demo\VideoChatRoom\VideoChatRoom\bin\Debug\CSkin.dll
+E:\替换dll\OMCS相关Demo\VideoChatRoom\VideoChatRoom\bin\Debug\ESBasic.dll
+E:\替换dll\OMCS相关Demo\VideoChatRoom\VideoChatRoom\bin\Debug\OMCS.dll
+E:\替换dll\OMCS相关Demo\VideoChatRoom\VideoChatRoom\bin\Debug\ESBasic.xml
+E:\替换dll\OMCS相关Demo\VideoChatRoom\VideoChatRoom\bin\Debug\OMCS.xml
+E:\替换dll\OMCS相关Demo\VideoChatRoom\VideoChatRoom\obj\x86\Debug\VideoChatRoom.pdb
+D:\Users\dudu\Documents\Tencent Files\5144262\FileRecv\OMCS运行通过\OMCS运行通过\VideoChatRoom\VideoChatRoom\bin\Debug\VideoChatRoom.exe.config
+D:\Users\dudu\Documents\Tencent Files\5144262\FileRecv\OMCS运行通过\OMCS运行通过\VideoChatRoom\VideoChatRoom\bin\Debug\VideoChatRoom.exe
+D:\Users\dudu\Documents\Tencent Files\5144262\FileRecv\OMCS运行通过\OMCS运行通过\VideoChatRoom\VideoChatRoom\bin\Debug\VideoChatRoom.pdb
+D:\Users\dudu\Documents\Tencent Files\5144262\FileRecv\OMCS运行通过\OMCS运行通过\VideoChatRoom\VideoChatRoom\bin\Debug\CSkin.dll
+D:\Users\dudu\Documents\Tencent Files\5144262\FileRecv\OMCS运行通过\OMCS运行通过\VideoChatRoom\VideoChatRoom\bin\Debug\ESBasic.dll
+D:\Users\dudu\Documents\Tencent Files\5144262\FileRecv\OMCS运行通过\OMCS运行通过\VideoChatRoom\VideoChatRoom\bin\Debug\OMCS.dll
+D:\Users\dudu\Documents\Tencent Files\5144262\FileRecv\OMCS运行通过\OMCS运行通过\VideoChatRoom\VideoChatRoom\bin\Debug\ESBasic.xml
+D:\Users\dudu\Documents\Tencent Files\5144262\FileRecv\OMCS运行通过\OMCS运行通过\VideoChatRoom\VideoChatRoom\bin\Debug\OMCS.xml
+D:\Users\dudu\Documents\Tencent Files\5144262\FileRecv\OMCS运行通过\OMCS运行通过\VideoChatRoom\VideoChatRoom\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Users\dudu\Documents\Tencent Files\5144262\FileRecv\OMCS运行通过\OMCS运行通过\VideoChatRoom\VideoChatRoom\obj\x86\Debug\VideoChatRoom.DecibelDisplayer.resources
+D:\Users\dudu\Documents\Tencent Files\5144262\FileRecv\OMCS运行通过\OMCS运行通过\VideoChatRoom\VideoChatRoom\obj\x86\Debug\VideoChatRoom.MainForm.resources
+D:\Users\dudu\Documents\Tencent Files\5144262\FileRecv\OMCS运行通过\OMCS运行通过\VideoChatRoom\VideoChatRoom\obj\x86\Debug\VideoChatRoom.LoginForm.resources
+D:\Users\dudu\Documents\Tencent Files\5144262\FileRecv\OMCS运行通过\OMCS运行通过\VideoChatRoom\VideoChatRoom\obj\x86\Debug\VideoChatRoom.MultiVideoChatContainer.resources
+D:\Users\dudu\Documents\Tencent Files\5144262\FileRecv\OMCS运行通过\OMCS运行通过\VideoChatRoom\VideoChatRoom\obj\x86\Debug\VideoChatRoom.Properties.Resources.resources
+D:\Users\dudu\Documents\Tencent Files\5144262\FileRecv\OMCS运行通过\OMCS运行通过\VideoChatRoom\VideoChatRoom\obj\x86\Debug\VideoChatRoom.VideoPanel.resources
+D:\Users\dudu\Documents\Tencent Files\5144262\FileRecv\OMCS运行通过\OMCS运行通过\VideoChatRoom\VideoChatRoom\obj\x86\Debug\ResGen.read.1.tlog
+D:\Users\dudu\Documents\Tencent Files\5144262\FileRecv\OMCS运行通过\OMCS运行通过\VideoChatRoom\VideoChatRoom\obj\x86\Debug\ResGen.write.1.tlog
+D:\Users\dudu\Documents\Tencent Files\5144262\FileRecv\OMCS运行通过\OMCS运行通过\VideoChatRoom\VideoChatRoom\obj\x86\Debug\VideoChatRoom.exe
+D:\Users\dudu\Documents\Tencent Files\5144262\FileRecv\OMCS运行通过\OMCS运行通过\VideoChatRoom\VideoChatRoom\obj\x86\Debug\VideoChatRoom.pdb
+D:\1项目积累资料@@@@@\2016\06微视宝\微视宝软件\VideoChatRoom\VideoChatRoom\bin\Debug\VideoChatRoom.exe.config
+D:\1项目积累资料@@@@@\2016\06微视宝\微视宝软件\VideoChatRoom\VideoChatRoom\bin\Debug\VideoChatRoom.exe
+D:\1项目积累资料@@@@@\2016\06微视宝\微视宝软件\VideoChatRoom\VideoChatRoom\bin\Debug\VideoChatRoom.pdb
+D:\1项目积累资料@@@@@\2016\06微视宝\微视宝软件\VideoChatRoom\VideoChatRoom\bin\Debug\CSkin.dll
+D:\1项目积累资料@@@@@\2016\06微视宝\微视宝软件\VideoChatRoom\VideoChatRoom\bin\Debug\ESBasic.dll
+D:\1项目积累资料@@@@@\2016\06微视宝\微视宝软件\VideoChatRoom\VideoChatRoom\bin\Debug\OMCS.dll
+D:\1项目积累资料@@@@@\2016\06微视宝\微视宝软件\VideoChatRoom\VideoChatRoom\bin\Debug\ESBasic.xml
+D:\1项目积累资料@@@@@\2016\06微视宝\微视宝软件\VideoChatRoom\VideoChatRoom\bin\Debug\OMCS.xml
+D:\1项目积累资料@@@@@\2016\06微视宝\微视宝软件\VideoChatRoom\VideoChatRoom\obj\x86\Debug\VideoChatRoom.csprojResolveAssemblyReference.cache
+D:\1项目积累资料@@@@@\2016\06微视宝\微视宝软件\VideoChatRoom\VideoChatRoom\obj\x86\Debug\VideoChatRoom.DecibelDisplayer.resources
+D:\1项目积累资料@@@@@\2016\06微视宝\微视宝软件\VideoChatRoom\VideoChatRoom\obj\x86\Debug\VideoChatRoom.MainForm.resources
+D:\1项目积累资料@@@@@\2016\06微视宝\微视宝软件\VideoChatRoom\VideoChatRoom\obj\x86\Debug\VideoChatRoom.LoginForm.resources
+D:\1项目积累资料@@@@@\2016\06微视宝\微视宝软件\VideoChatRoom\VideoChatRoom\obj\x86\Debug\VideoChatRoom.MultiVideoChatContainer.resources
+D:\1项目积累资料@@@@@\2016\06微视宝\微视宝软件\VideoChatRoom\VideoChatRoom\obj\x86\Debug\VideoChatRoom.Properties.Resources.resources
+D:\1项目积累资料@@@@@\2016\06微视宝\微视宝软件\VideoChatRoom\VideoChatRoom\obj\x86\Debug\VideoChatRoom.VideoPanel.resources
+D:\1项目积累资料@@@@@\2016\06微视宝\微视宝软件\VideoChatRoom\VideoChatRoom\obj\x86\Debug\VideoChatRoom.csproj.GenerateResource.Cache
+D:\1项目积累资料@@@@@\2016\06微视宝\微视宝软件\VideoChatRoom\VideoChatRoom\obj\x86\Debug\VideoChatRoom.exe
+D:\1项目积累资料@@@@@\2016\06微视宝\微视宝软件\VideoChatRoom\VideoChatRoom\obj\x86\Debug\VideoChatRoom.pdb
+C:\微视宝\VideoChatRoom\VideoChatRoom0317\VideoChatRoom\bin\Debug\VideoChatRoom.exe.config
+C:\微视宝\VideoChatRoom\VideoChatRoom0317\VideoChatRoom\bin\Debug\VideoChatRoom.exe
+C:\微视宝\VideoChatRoom\VideoChatRoom0317\VideoChatRoom\bin\Debug\VideoChatRoom.pdb
+C:\微视宝\VideoChatRoom\VideoChatRoom0317\VideoChatRoom\bin\Debug\CSkin.dll
+C:\微视宝\VideoChatRoom\VideoChatRoom0317\VideoChatRoom\bin\Debug\ESBasic.dll
+C:\微视宝\VideoChatRoom\VideoChatRoom0317\VideoChatRoom\bin\Debug\OMCS.dll
+C:\微视宝\VideoChatRoom\VideoChatRoom0317\VideoChatRoom\bin\Debug\ESBasic.xml
+C:\微视宝\VideoChatRoom\VideoChatRoom0317\VideoChatRoom\bin\Debug\OMCS.xml
+C:\微视宝\VideoChatRoom\VideoChatRoom0317\VideoChatRoom\obj\x86\Debug\VideoChatRoom.csprojResolveAssemblyReference.cache
+C:\微视宝\VideoChatRoom\VideoChatRoom0317\VideoChatRoom\obj\x86\Debug\VideoChatRoom.DecibelDisplayer.resources
+C:\微视宝\VideoChatRoom\VideoChatRoom0317\VideoChatRoom\obj\x86\Debug\VideoChatRoom.MainForm.resources
+C:\微视宝\VideoChatRoom\VideoChatRoom0317\VideoChatRoom\obj\x86\Debug\VideoChatRoom.LoginForm.resources
+C:\微视宝\VideoChatRoom\VideoChatRoom0317\VideoChatRoom\obj\x86\Debug\VideoChatRoom.MultiVideoChatContainer.resources
+C:\微视宝\VideoChatRoom\VideoChatRoom0317\VideoChatRoom\obj\x86\Debug\VideoChatRoom.Properties.Resources.resources
+C:\微视宝\VideoChatRoom\VideoChatRoom0317\VideoChatRoom\obj\x86\Debug\VideoChatRoom.VideoPanel.resources
+C:\微视宝\VideoChatRoom\VideoChatRoom0317\VideoChatRoom\obj\x86\Debug\VideoChatRoom.csproj.GenerateResource.Cache
+C:\微视宝\VideoChatRoom\VideoChatRoom0317\VideoChatRoom\obj\x86\Debug\VideoChatRoom.exe
+C:\微视宝\VideoChatRoom\VideoChatRoom0317\VideoChatRoom\obj\x86\Debug\VideoChatRoom.pdb
+C:\微视宝\VideoChatRoom\VideoChatRoom0318\VideoChatRoom\bin\Debug\VideoChatRoom.exe.config
+C:\微视宝\VideoChatRoom\VideoChatRoom0318\VideoChatRoom\obj\x86\Debug\VideoChatRoom.exe
+C:\微视宝\VideoChatRoom\VideoChatRoom0318\VideoChatRoom\obj\x86\Debug\VideoChatRoom.pdb
+C:\微视宝\VideoChatRoom\VideoChatRoom0322\VideoChatRoom\bin\Debug\VideoChatRoom.exe.config
+C:\微视宝\VideoChatRoom\VideoChatRoom0322\VideoChatRoom\bin\Debug\VideoChatRoom.exe
+C:\微视宝\VideoChatRoom\VideoChatRoom0322\VideoChatRoom\bin\Debug\VideoChatRoom.pdb
+C:\微视宝\VideoChatRoom\VideoChatRoom0322\VideoChatRoom\bin\Debug\CSkin.dll
+C:\微视宝\VideoChatRoom\VideoChatRoom0322\VideoChatRoom\bin\Debug\ESBasic.dll
+C:\微视宝\VideoChatRoom\VideoChatRoom0322\VideoChatRoom\bin\Debug\OMCS.dll
+C:\微视宝\VideoChatRoom\VideoChatRoom0322\VideoChatRoom\bin\Debug\ESBasic.xml
+C:\微视宝\VideoChatRoom\VideoChatRoom0322\VideoChatRoom\bin\Debug\OMCS.xml
+C:\微视宝\VideoChatRoom\VideoChatRoom0322\VideoChatRoom\obj\x86\Debug\VideoChatRoom.DecibelDisplayer.resources
+C:\微视宝\VideoChatRoom\VideoChatRoom0322\VideoChatRoom\obj\x86\Debug\VideoChatRoom.MainForm.resources
+C:\微视宝\VideoChatRoom\VideoChatRoom0322\VideoChatRoom\obj\x86\Debug\VideoChatRoom.LoginForm.resources
+C:\微视宝\VideoChatRoom\VideoChatRoom0322\VideoChatRoom\obj\x86\Debug\VideoChatRoom.MultiVideoChatContainer.resources
+C:\微视宝\VideoChatRoom\VideoChatRoom0322\VideoChatRoom\obj\x86\Debug\VideoChatRoom.Properties.Resources.resources
+C:\微视宝\VideoChatRoom\VideoChatRoom0322\VideoChatRoom\obj\x86\Debug\VideoChatRoom.VideoPanel.resources
+C:\微视宝\VideoChatRoom\VideoChatRoom0322\VideoChatRoom\obj\x86\Debug\VideoChatRoom.csproj.GenerateResource.Cache
+C:\微视宝\VideoChatRoom\VideoChatRoom0322\VideoChatRoom\obj\x86\Debug\VideoChatRoom.exe
+C:\微视宝\VideoChatRoom\VideoChatRoom0322\VideoChatRoom\obj\x86\Debug\VideoChatRoom.pdb
+C:\微视宝\VideoChatRoom\VideoChatRoom0328\VideoChatRoom\bin\Debug\VideoChatRoom.exe.config
+C:\微视宝\VideoChatRoom\VideoChatRoom0328\VideoChatRoom\bin\Debug\VideoChatRoom.exe
+C:\微视宝\VideoChatRoom\VideoChatRoom0328\VideoChatRoom\bin\Debug\VideoChatRoom.pdb
+C:\微视宝\VideoChatRoom\VideoChatRoom0328\VideoChatRoom\bin\Debug\CSkin.dll
+C:\微视宝\VideoChatRoom\VideoChatRoom0328\VideoChatRoom\bin\Debug\ESBasic.dll
+C:\微视宝\VideoChatRoom\VideoChatRoom0328\VideoChatRoom\bin\Debug\MySql.Data.dll
+C:\微视宝\VideoChatRoom\VideoChatRoom0328\VideoChatRoom\bin\Debug\OMCS.dll
+C:\微视宝\VideoChatRoom\VideoChatRoom0328\VideoChatRoom\bin\Debug\ESBasic.xml
+C:\微视宝\VideoChatRoom\VideoChatRoom0328\VideoChatRoom\bin\Debug\OMCS.xml
+C:\微视宝\VideoChatRoom\VideoChatRoom0328\VideoChatRoom\obj\x86\Debug\VideoChatRoom.csprojResolveAssemblyReference.cache
+C:\微视宝\VideoChatRoom\VideoChatRoom0328\VideoChatRoom\obj\x86\Debug\VideoChatRoom.DecibelDisplayer.resources
+C:\微视宝\VideoChatRoom\VideoChatRoom0328\VideoChatRoom\obj\x86\Debug\VideoChatRoom.MainForm.resources
+C:\微视宝\VideoChatRoom\VideoChatRoom0328\VideoChatRoom\obj\x86\Debug\VideoChatRoom.LoginForm.resources
+C:\微视宝\VideoChatRoom\VideoChatRoom0328\VideoChatRoom\obj\x86\Debug\VideoChatRoom.MultiVideoChatContainer.resources
+C:\微视宝\VideoChatRoom\VideoChatRoom0328\VideoChatRoom\obj\x86\Debug\VideoChatRoom.Properties.Resources.resources
+C:\微视宝\VideoChatRoom\VideoChatRoom0328\VideoChatRoom\obj\x86\Debug\VideoChatRoom.PWDreSet.resources
+C:\微视宝\VideoChatRoom\VideoChatRoom0328\VideoChatRoom\obj\x86\Debug\VideoChatRoom.VideoPanel.resources
+C:\微视宝\VideoChatRoom\VideoChatRoom0328\VideoChatRoom\obj\x86\Debug\VideoChatRoom.csproj.GenerateResource.Cache
+C:\微视宝\VideoChatRoom\VideoChatRoom0328\VideoChatRoom\obj\x86\Debug\VideoChatRoom.exe
+C:\微视宝\VideoChatRoom\VideoChatRoom0328\VideoChatRoom\obj\x86\Debug\VideoChatRoom.pdb
+C:\Users\Administrator\Desktop\VideoChatRoom0328\VideoChatRoom\bin\Debug\VideoChatRoom.exe.config
+C:\Users\Administrator\Desktop\VideoChatRoom0328\VideoChatRoom\bin\Debug\VideoChatRoom.exe
+C:\Users\Administrator\Desktop\VideoChatRoom0328\VideoChatRoom\bin\Debug\VideoChatRoom.pdb
+C:\Users\Administrator\Desktop\VideoChatRoom0328\VideoChatRoom\bin\Debug\CSkin.dll
+C:\Users\Administrator\Desktop\VideoChatRoom0328\VideoChatRoom\bin\Debug\ESBasic.dll
+C:\Users\Administrator\Desktop\VideoChatRoom0328\VideoChatRoom\bin\Debug\MySql.Data.dll
+C:\Users\Administrator\Desktop\VideoChatRoom0328\VideoChatRoom\bin\Debug\OMCS.dll
+C:\Users\Administrator\Desktop\VideoChatRoom0328\VideoChatRoom\bin\Debug\ESBasic.xml
+C:\Users\Administrator\Desktop\VideoChatRoom0328\VideoChatRoom\bin\Debug\OMCS.xml
+C:\Users\Administrator\Desktop\VideoChatRoom0328\VideoChatRoom\obj\x86\Debug\VideoChatRoom.DecibelDisplayer.resources
+C:\Users\Administrator\Desktop\VideoChatRoom0328\VideoChatRoom\obj\x86\Debug\VideoChatRoom.MainForm.resources
+C:\Users\Administrator\Desktop\VideoChatRoom0328\VideoChatRoom\obj\x86\Debug\VideoChatRoom.LoginForm.resources
+C:\Users\Administrator\Desktop\VideoChatRoom0328\VideoChatRoom\obj\x86\Debug\VideoChatRoom.MultiVideoChatContainer.resources
+C:\Users\Administrator\Desktop\VideoChatRoom0328\VideoChatRoom\obj\x86\Debug\VideoChatRoom.Properties.Resources.resources
+C:\Users\Administrator\Desktop\VideoChatRoom0328\VideoChatRoom\obj\x86\Debug\VideoChatRoom.PWDreSet.resources
+C:\Users\Administrator\Desktop\VideoChatRoom0328\VideoChatRoom\obj\x86\Debug\VideoChatRoom.VideoPanel.resources
+C:\Users\Administrator\Desktop\VideoChatRoom0328\VideoChatRoom\obj\x86\Debug\VideoChatRoom.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\VideoChatRoom0328\VideoChatRoom\obj\x86\Debug\VideoChatRoom.exe
+C:\Users\Administrator\Desktop\VideoChatRoom0328\VideoChatRoom\obj\x86\Debug\VideoChatRoom.pdb

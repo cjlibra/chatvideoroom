@@ -1,0 +1,25 @@
+D:\Project\2.Demo\AudioChatRoom\AudioChatRoom\bin\Debug\AudioChatRoom.exe.config
+D:\Project\2.Demo\AudioChatRoom\AudioChatRoom\bin\Debug\AudioChatRoom.exe
+D:\Project\2.Demo\AudioChatRoom\AudioChatRoom\bin\Debug\AudioChatRoom.pdb
+D:\Project\2.Demo\AudioChatRoom\AudioChatRoom\bin\Debug\CSkin.dll
+D:\Project\2.Demo\AudioChatRoom\AudioChatRoom\bin\Debug\ESBasic.dll
+D:\Project\2.Demo\AudioChatRoom\AudioChatRoom\bin\Debug\OMCS.dll
+D:\Project\2.Demo\AudioChatRoom\AudioChatRoom\bin\Debug\PaintFramework.dll
+D:\Project\2.Demo\AudioChatRoom\AudioChatRoom\bin\Debug\ESBasic.xml
+D:\Project\2.Demo\AudioChatRoom\AudioChatRoom\bin\Debug\OMCS.xml
+D:\Project\2.Demo\AudioChatRoom\AudioChatRoom\bin\Debug\PaintFramework.xml
+D:\Project\2.Demo\AudioChatRoom\AudioChatRoom\obj\x86\Debug\AudioChatRoom.DecibelDisplayer.resources
+D:\Project\2.Demo\AudioChatRoom\AudioChatRoom\obj\x86\Debug\AudioChatRoom.MainForm.resources
+D:\Project\2.Demo\AudioChatRoom\AudioChatRoom\obj\x86\Debug\AudioChatRoom.LoginForm.resources
+D:\Project\2.Demo\AudioChatRoom\AudioChatRoom\obj\x86\Debug\AudioChatRoom.MultiAudioChatContainer.resources
+D:\Project\2.Demo\AudioChatRoom\AudioChatRoom\obj\x86\Debug\AudioChatRoom.Properties.Resources.resources
+D:\Project\2.Demo\AudioChatRoom\AudioChatRoom\obj\x86\Debug\AudioChatRoom.SpeakerPanel.resources
+D:\Project\2.Demo\AudioChatRoom\AudioChatRoom\obj\x86\Debug\AudioChatRoom.csproj.GenerateResource.Cache
+D:\Project\2.Demo\AudioChatRoom\AudioChatRoom\obj\x86\Debug\AudioChatRoom.exe
+D:\Project\2.Demo\AudioChatRoom\AudioChatRoom\obj\x86\Debug\AudioChatRoom.pdb
+D:\Project\2.Demo\OMCS Demo：语音聊天室\AudioChatRoom\bin\Debug\AudioChatRoom.exe.config
+D:\Project\2.Demo\OMCS Demo：语音聊天室\AudioChatRoom\obj\x86\Debug\AudioChatRoom.exe
+D:\Project\2.Demo\OMCS Demo：语音聊天室\AudioChatRoom\obj\x86\Debug\AudioChatRoom.pdb
+D:\Project\2.Demo\OMCS Demo：视频聊天室\AudioChatRoom\bin\Debug\AudioChatRoom.exe.config
+D:\Project\2.Demo\OMCS Demo：视频聊天室\AudioChatRoom\obj\x86\Debug\AudioChatRoom.exe
+D:\Project\2.Demo\OMCS Demo：视频聊天室\AudioChatRoom\obj\x86\Debug\AudioChatRoom.pdb

@@ -1,0 +1,22 @@
+2016/3/17 12:06:54:Failed to verify Security Dog for Current server instance. 无法加载 DLL“sdog.dll”: 找不到指定的模块。 (异常来自 HRESULT:0x8007007E)。
+
+2016/3/17 12:08:55:Current server instance is not authorized ! [SecurityDog]
+
+2016/3/17 12:10:45:Current server instance has been authorized ! 
+
+2016/3/17 12:31:52:Failed to verify Security Dog for Current server instance. 无法加载 DLL“sdog.dll”: 找不到指定的模块。 (异常来自 HRESULT:0x8007007E)。
+
+2016/3/17 12:33:53:Current server instance is not authorized ! [SecurityDog]
+
+2016/3/17 12:35:31:Failed to verify Security Dog for Current server instance. 无法加载 DLL“sdog.dll”: 找不到指定的模块。 (异常来自 HRESULT:0x8007007E)。
+
+2016/3/17 12:37:32:Current server instance is not authorized ! [SecurityDog]
+
+2016/3/17 12:38:18:Failed to verify Security Dog for Current server instance. 无法加载 DLL“sdog.dll”: 找不到指定的模块。 (异常来自 HRESULT:0x8007007E)。
+
+2016/3/17 12:40:19:Current server instance is not authorized ! [SecurityDog]
+
+2016/3/17 12:41:46:Failed to verify Security Dog for Current server instance. 无法加载 DLL“sdog.dll”: 找不到指定的模块。 (异常来自 HRESULT:0x8007007E)。
+
+2016/3/17 15:19:33:Failed to verify Security Dog for Current server instance. 打开加密狗失败！ FIND_DEVICE_FAILED
+
